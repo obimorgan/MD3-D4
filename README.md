@@ -16,7 +16,7 @@ When this button is pressed, add the item to another list and change its styling
 
 <!-- Add a skip button inside each card -->
 
-When pressed, this button should hide the specific book from the page
+<!-- When pressed, this button should hide the specific book from the page -->
 
 Add a search bar. When the user types more than 3 characters, filter the content of the API response to only display the books with a matching (or partially matching) title (hint: use .filter)
 
